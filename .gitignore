@@ -5,5 +5,7 @@ Homestead.yaml
 TestController.php
 Test.php
 
+composer.lock
+
 /client/*.json
 !/client/localhost.json
